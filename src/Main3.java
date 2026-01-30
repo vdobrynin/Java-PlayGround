@@ -41,7 +41,6 @@ public class Main3 {
 //add the new integer to the last index
         newSeries[newSeries.length - 1] = newInt;
         return newSeries;
-
     }
 }
 

@@ -20,6 +20,7 @@ public class Main5 {
             }
             return num;
         }
+
     public static void main(String[] args) {
         int n = 15;
         System.out.println(addDigits(n));

@@ -22,7 +22,7 @@ public class Main5 {
         }
 
     public static void main(String[] args) {
-        int n = 15;
+        int n = 17;
         System.out.println(addDigits(n));
     }
 }

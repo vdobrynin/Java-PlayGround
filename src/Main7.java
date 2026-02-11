@@ -17,9 +17,9 @@ public class Main7 {
 
     public static void main(String[] args) {
         Main7 pangram = new Main7();
-//        String str1 = "the quick brown fox jumps over the lazy dog";
+        String str1 = "the quick brown fox jumps over the lazy dog";
         String str2 = "leet code";
-//        System.out.println(pangram.checkIfPangram(str1));
+        System.out.println(pangram.checkIfPangram(str1));
         System.out.println(pangram.checkIfPangram(str2));
     }
 }
